@@ -1,0 +1,11 @@
+Outer Wilds · Kirkland APAC 2026 — GitHub Pages publishing
+
+1. Unzip this package on your computer. Do not upload the ZIP itself to the repository.
+2. Create a PUBLIC GitHub repository, for example: outer-wilds-apac-2026.
+3. In the repository, choose Add file > Upload files. Drag index.html, the assets folder and .nojekyll into the upload area, then commit the upload.
+4. Go to Settings > Pages. Under Build and deployment, select Deploy from a branch. Choose main and /(root), then Save.
+5. After deployment finishes, the address is usually:
+   https://YOUR-GITHUB-USERNAME.github.io/outer-wilds-apac-2026/
+6. The page is public and visitors do not need a GitHub account.
+
+The site contains no background music or external music player.
